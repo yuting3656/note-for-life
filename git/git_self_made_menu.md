@@ -21,3 +21,11 @@
 - 刪除 Branch
 	
   > `git branch -d [branchName]`
+
+Gitk 
+=======================
+
+- 看特定程式的異動紀錄
+
+  > `gitk [filename]`
+
