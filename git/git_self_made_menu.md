@@ -20,7 +20,6 @@
 	
 - 刪除 Branch
 	
-<<<<<<< HEAD
     > `git branch -d [branchName]`
 
 
@@ -39,5 +38,3 @@ Gitk
 - 看特定程式的異動紀錄
 
   > `gitk [filename]`
-
->>>>>>> 610725f99872a0a56daecc63e036e01131f10fd2
