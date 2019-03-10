@@ -12,3 +12,17 @@
 
 ## 實例
 
+~~~typescript
+// auto-complete:　[source]="dataSource$.bind(this)"
+  dataSource$ = (keyword: string): Observable<any> => {
+    if (keyword.length >= 2) {
+      return this.xxxSrv.checkXxxxxName(keyword).pipe(
+        map((result: any) => {
+          return result;
+        }),
+      );
+    }
+    return of([]);
+  }
+~~~
+
