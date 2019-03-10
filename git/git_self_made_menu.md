@@ -29,8 +29,6 @@ Git pull
 - remote pusll
 
     > `git pull [remote]`
-=======
-  > `git branch -d [branchName]`
 
 Gitk 
 =======================
