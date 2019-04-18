@@ -84,3 +84,8 @@ export function customValidator(input: FormControl) {
               </div>
             </div>
 ~~~
+
+相關重要連結
+=============
+
+> link: `http://jasonwatmore.com/post/2018/11/07/angular-7-reactive-forms-validation-example`
