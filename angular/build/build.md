@@ -9,7 +9,7 @@ ng build --prod --base-href /url/
 打包階段 把 svg png 的檔案也包進去
 ===========
 
-~~~typeSript 
+~~~typeScript 
 
         "build": {
           "builder": "@angular-devkit/build-angular:browser",

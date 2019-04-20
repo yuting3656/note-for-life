@@ -43,3 +43,10 @@ LF will be replaced by CRLF
 
 - link 
   > `https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important`
+
+
+Git  fetch remote branch
+=======
+
+
+  > git checkout --track origin/daves_branch
